@@ -2,7 +2,7 @@
     {
         "Name": "chromium_third_party_snappy",                   # 上游开源软件名全称
         "License":         # 上游开源软件中包含的许可证信息
-        "License File":       # 许可证所在文件路径
+        "License File":"License.txt"       # 许可证所在文件路径
         "Version Number": "65dc7b383985eb4f63cd3e752136db8d9b4be8c0",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/snappy.git@65dc7b383985eb4f63cd3e752136db8d9b4be8c0",   # 上游软件包发布地址
         "Description": "第三方软件snappy"           # 开源软件功能描述
