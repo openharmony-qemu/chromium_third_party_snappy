@@ -6,6 +6,6 @@
         "Version Number": "65dc7b383985eb4f63cd3e752136db8d9b4be8c0",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/snappy.git@65dc7b383985eb4f63cd3e752136db8d9b4be8c0",
-        "Description": "第三方软件snappy"
+        "Description": "第三方软件snappy，旨在提供高速压缩速度和合理的压缩率"
     }
 ]
