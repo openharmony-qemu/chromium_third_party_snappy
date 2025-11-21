@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "snappy",
+        "License": "BSD-3-Clause",
+        "License File":"COPYING",
+        "Version Number": "c9f9edf6d75bb065fa47468bf035e051a57bec7c",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/snappy.git@c9f9edf6d75bb065fa47468bf035e051a57bec7c",
+        "Description": "第三方软件snappy，旨在提供高速压缩速度和合理的压缩率"
+    }
+]
